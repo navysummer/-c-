@@ -4,7 +4,6 @@ int main(void)
 {
     seqlist L;
     InitList(&L);
-    ;
     int i,k=0;
     Datatype e;
     Datatype ee;
